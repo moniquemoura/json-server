@@ -2,9 +2,9 @@
   "name": "json-server-resilia",
   "version": "1.0.0",
   "description": "Json Server",
-  "main": "db.json",
+  "main": "server.js",
   "scripts": {
-    "start": "npx json-server --watch db.json"
+    "start": "node server.js"
   },
   "author": "Monique Moura",
   "license": "MIT",
