@@ -1,0 +1,109 @@
+{
+  "agendamentos": [
+    {
+      "name": "Alice",
+      "datahora": "12/11/1996 18:00:00",
+      "confirmado": true,
+      "id": 1
+    },
+    {
+      "name": "Berta",
+      "datahora": "12/11/1996 18:00:00",
+      "confirmado": true,
+      "id": 2
+    },
+    {
+      "name": "Cristal",
+      "datahora": "12/11/1996 18:00:00",
+      "confirmado": true,
+      "id": 3
+    },
+    {
+      "name": "Diana",
+      "datahora": "12/11/1996 18:00:00",
+      "confirmado": false,
+      "id": 4
+    }
+  ],
+  "catalogo": [
+    {
+      "nome": "Fé na Rosa",
+      "foto": "https://www.dicasdemulher.com.br/wp-content/uploads/2019/10/tatuagem-religiosa-86.png",
+      "preco": "R$99.99",
+      "id": 1
+    },
+    {
+      "nome": "Beija Flor no Peito",
+      "foto": "https://cdn.shopify.com/s/files/1/0258/1282/8219/articles/como-cuidar-de-tatuagem_800x.jpg?v=1586239812",
+      "preco": "R$1099.99",
+      "id": 2
+    },
+    {
+      "nome": "Cruz e Leão no Peito",
+      "foto": "https://http2.mlstatic.com/D_NQ_NP_801695-MLB45413741499_042021-W.jpg",
+      "preco": "R$1099.99",
+      "id": 3
+    }
+
+  ],
+  "estudios": [
+    {
+      "nome": "123 Studios",
+      "endereco": "Rua dos Patos",
+      "cidade": "Rio de Janeiro",
+      "telefone": "4002-8922",
+      "id": 1
+    },
+    {
+      "nome": "LM Studios",
+      "endereco": "Rua Bartolomeu",
+      "cidade": "Rio de Janeiro",
+      "telefone": "21 7894-5563",
+      "id": 2
+    },
+    {
+      "nome": "MST Studios",
+      "endereco": "Rua Bartolomeu",
+      "cidade": "Rio de Janeiro",
+      "telefone": "21 1234-1234",
+      "id": 3
+    },
+    {
+      "nome": "QWERTY Studios",
+      "endereco": "Rua das Flores",
+      "cidade": "Rio de Janeiro",
+      "telefone": "21 1234-1234",
+      "id": 4
+    }
+  ],
+  "eventos": [
+    {
+      "datahora": "12/11/1996 18:00:00",
+      "nome": "Rockeiros da Esquina",
+      "endereco": "Rua da Alfandega 99",
+      "valorIngreco": "R$15.00",
+      "id": 1
+    },
+    {
+      "datahora": "12/11/1996 18:00:00",
+      "nome": "Baile do Sr Zé",
+      "endereco": "Rua das Flores 123",
+      "valorIngreco": "R$30.00",
+      "id": 2
+    },
+    {
+      "datahora": "12/11/1996 18:00:00",
+      "nome": "Encontro dos Amigos",
+      "endereco": "Rua Alfazema 123",
+      "valorIngreco": "R$35.00",
+      "id": 3
+    },
+    {
+      "datahora": "12/11/1996 18:00:00",
+      "nome": "Exposição das Margaridas",
+      "endereco": "Rua Lorem Ipsum 171",
+      "valorIngreco": "R$40.00",
+      "id": 4
+    }
+  ]
+}
