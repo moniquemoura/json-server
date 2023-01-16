@@ -2,12 +2,12 @@
   "name": "json-server-resilia",
   "version": "1.0.0",
   "description": "Json Server",
-  "main": "json-server --watch db.json",
+  "main": "db.json",
   "scripts": {
-    "start": "json-server --watch db.json"
+    "start": "npx json-server --watch db.json"
   },
   "author": "Monique Moura",
-  "license": "Private",
+  "license": "MIT",
   "dependencies": {
     "json-server": "^0.17.1"
   }
